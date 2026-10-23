@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Evaluating Large Language Models for Automated Exploratory Data Analysis and Natural Language-Based Data Querying"
+type: generic
+authors:
+  - family-names: "Malik"
+    given-names: "Sidharth"
+    affiliation: "Department of Computer Applications, Chandigarh University"
+date-released: 2026-10-23
+license: CC-BY-4.0
+repository-code: "https://github.com/YOUR-USERNAME/llm-eda-text-to-sql-evaluation"
+abstract: >-
+  A survey and comparative evaluation of LLM-based systems for automated
+  exploratory data analysis and natural language data querying (Text-to-SQL),
+  covering Spider, Spider 2.0, BIRD, LIDA, PandasAI and DAIL-SQL. Proposes a
+  5-dimension evaluation framework and argues that LLMs should currently act
+  as copilots to human or symbolic analysis rather than standalone analysts.
+keywords:
+  - large language models
+  - text-to-SQL
+  - exploratory data analysis
+  - benchmarks
+  - data analytics
